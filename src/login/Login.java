@@ -101,7 +101,7 @@ public class Login extends javax.swing.JFrame {
         getContentPane().add(jButton2, gridBagConstraints);
 
         jLabel1.setFont(new java.awt.Font("Tahoma", 0, 24)); // NOI18N
-        jLabel1.setText("Usuario:");
+        jLabel1.setText("Usuario12:");
         gridBagConstraints = new java.awt.GridBagConstraints();
         gridBagConstraints.gridx = 0;
         gridBagConstraints.gridy = 0;
