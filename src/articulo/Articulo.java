@@ -13,8 +13,9 @@ import misoft.CustomORM;
  *
  * @author Eddie
  */
- //comentario isabel
 public class Articulo extends CustomORM {
+    
+    //Eduardo Noe Muñoz Mejia
     
    
     private Long idArticulo;
