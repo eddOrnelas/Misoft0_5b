@@ -40,6 +40,7 @@ public class Articulo extends CustomORM {
         useTable = "articulo";
         keyField = "idArticulo";
         this.init(this);
+        //Comentario Eddie
     }
 
    
