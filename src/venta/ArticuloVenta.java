@@ -2,10 +2,12 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
+//Comentario Eddie
 package venta;
 
 import java.sql.Date;
 import misoft.CustomORM;
+//Noe Muñoz
 
 
 /**
