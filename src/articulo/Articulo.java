@@ -13,6 +13,7 @@ import misoft.CustomORM;
  *
  * @author Eddie
  */
+ //comentario isabel
 public class Articulo extends CustomORM {
     
    
@@ -40,7 +41,6 @@ public class Articulo extends CustomORM {
         useTable = "articulo";
         keyField = "idArticulo";
         this.init(this);
-        //Comentario Eddie
     }
 
    
